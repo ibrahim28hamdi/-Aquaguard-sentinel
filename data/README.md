@@ -1,0 +1,3 @@
+Put the **official** UCI water-treatment.data here to run the UCI benchmark offline. The data file is not committed; obtain it from https://archive.ics.uci.edu/dataset/106/water+treatment+plant and respect its terms. The expected input is 39 columns (date + 38 numeric readings). Do not add personal or private samples here.
+
+**Note (2026-10):** The `ucimlrepo` Python API no longer serves dataset 106 (`DatasetNotFoundError`). The manual download route above is now the only working path. The direct legacy file URL is: `https://archive.ics.uci.edu/ml/machine-learning-databases/water-treatment/water-treatment.data`
