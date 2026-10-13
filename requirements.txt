@@ -5,3 +5,4 @@ matplotlib>=3.7,<4
 requests>=2.31,<3
 ucimlrepo>=0.0.7,<1
 streamlit>=1.34,<2
+plotly>=5.18,<6
